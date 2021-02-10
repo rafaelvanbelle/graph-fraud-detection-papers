@@ -6,8 +6,8 @@ A curated list of fraud detection papers using graph information or graph neural
 
 ## GNN Papers
 
-| Year   | Title  | Venue |  Paper | Code  | To read? |
-|-------|--------|--------|--------|-----------|------|
+| Year   | Title  | Venue |  Paper | Code  | To read? | Read |
+|-------|--------|--------|--------|-----------|------|------|
 | 2021 | **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field**  | AAAI 2021  |  [Link](https://www.aaai.org/AAAI21Papers/AAAI-6859.XuB.pdf)  | Link | ok |
 | 2020 | **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks**  | AAAI 2021 Workshop  |  [Link](https://arxiv.org/pdf/2012.10831.pdf)  | Link |
 | 2020 | **APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding**  | arXiv  |  [Link](https://arxiv.org/pdf/2011.11545.pdf)  | Link | ok |
